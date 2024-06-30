@@ -50,7 +50,7 @@ project-root/
 │
 ├── app.py                    # Flask application setup and routes
 ├── templates/                # HTML templates for web interface
-│   ├── index.html            # Main template for chatbot interface
+│   ├── main.html            # Main template for chatbot interface
 ├── static/                   # Static files (CSS, images)
 │   ├── main.css              # Stylesheet for HTML templates
 │   ├── chatbot.png           # Image file for the chatbot
